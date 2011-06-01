@@ -1,0 +1,15 @@
+@charset "utf-8";
+
+@import "base.css";
+
+#gallery{
+	width:500px;
+	margin:0px auto;
+}
+
+#gallery h3{
+	margin-top:10px;
+	background-color:#cfcfcf;
+	-webkit-border-top-left-radius: 8px;
+	-webkit-border-top-right-radius: 8px;
+}

@@ -1,0 +1,58 @@
+@charset "utf-8";
+
+/**  base */
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,p,blockquote
+	{
+	margin: 0;
+	padding: 0;
+	line-height: 150%;
+}
+
+fieldset,img {
+	border: 0;
+}
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+address,caption,cite,code,dfn,em,th,var {
+	font-style: normal;
+	font-weight: normal;
+}
+
+ol,ul {
+	list-style: none;
+}
+
+.separate,.floatingw,legend {
+	display: none;
+}
+
+button {
+	cursor: pointer;
+}
+
+body {
+	font: 12px/ 1.22 "MS PGothic", "Osaka", Arial, sans-serif;
+	font-size: 12px; *
+	font-size: small; *
+	font: x-small;
+	text-align: center;
+}
+
+table {
+	font-size: inherit;
+	font: 100%;
+}
+
+pre,code,kbd,samp,tt {
+	font-family: monospace; *
+	font-size: 108%;
+	line-height: 99%;
+}
+
+h1,h2,h3,h4,h5 {
+	font-size: 100%;
+}

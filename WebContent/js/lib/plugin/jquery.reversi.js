@@ -1,5 +1,5 @@
 /**
- jquery.reversi.js ver0.4
+ jquery.reversi.js ver1.0
 
 The MIT License
 
@@ -44,12 +44,11 @@ THE SOFTWARE.
 		 */
 		var defaults ={
 			cpu   : true, //cpuを使用するか
-			my_color : 'black' ,
-			cols  : 8   ,
-			rows  : 8   ,
-
-			width : 296 ,
-			height: 296
+			my_color : 'black' , //black or white
+			cols  : 8   , //マス(横)
+			rows  : 8   , //マス(縦)
+			width : 296 , //縦幅
+			height: 296   //横幅
 		};
 
 		return this.each(function(){

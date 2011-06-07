@@ -2,14 +2,63 @@
 
 @import "base.css";
 
-#gallery{
-	width:500px;
+/** wrapper */
+#wrapper{
+	width: 700px;
+	margin: 0px auto;
+}
+
+#wrapper h2{
+	font-size: large;
+	color:#00c400;
+	border-style:dotted;
+	border-width:0px 0px 1px 0px;
+	border-color:#cccccc;
+	margin-bottom: 10px;
+}
+
+/**  header */
+#header{
 	margin:0px auto;
+	text-align:left;
+	border-bottom:dotted #999999;
+}
+
+#header h1{
+	padding-top: 7px;
+	margin-top:3px;
+	margin-left:8px;
+}
+
+#header h1 a{
+	font-size:20px;
+	text-decoration:none;
+	color:#009400;
+}
+
+#header h2{
+	margin:15px 0 10px 50px;
+	color:#009400;
+	vertical-align:bottom;
+}
+
+
+
+/** gallery */
+#gallery{
 }
 
 #gallery h3{
+	width:100%;
+	text-align:left;
+	padding-top: 2px;
+	padding-left:10px;
+	border-style:solid;
+	border-width:1px 1px 1px 3px;
+	border-color:#000;
 	margin-top:10px;
-	background-color:#cfcfcf;
+	margin-bottom:3px;
+	background-color:#efefef;
 	-webkit-border-top-left-radius: 8px;
 	-webkit-border-top-right-radius: 8px;
 }

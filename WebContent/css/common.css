@@ -62,3 +62,8 @@
 	-webkit-border-top-left-radius: 8px;
 	-webkit-border-top-right-radius: 8px;
 }
+
+/** footer */
+#footer{
+	height:20px;
+}

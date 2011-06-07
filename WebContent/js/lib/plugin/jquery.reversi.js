@@ -1,5 +1,5 @@
 /**
- jquery.reversi.js ver0.3
+ jquery.reversi.js ver0.4
 
 The MIT License
 
@@ -204,12 +204,13 @@ THE SOFTWARE.
 			}
 		}
 
-		//
 		var stragy = keepStrategy[parseInt(Math.random()*keepStrategy.length)];
-		$(board_element).trigger(EVENT_REVERSI_PUT ,
-				{ 'col' : stragy.col ,
-				  'row' : stragy.row }
-			);
+		setTimeout(function() {
+			$(board_element).trigger(EVENT_REVERSI_PUT ,
+					{ 'col' : stragy.col ,
+					  'row' : stragy.row }
+				);
+		}, 300);
 	}
 
 	/**

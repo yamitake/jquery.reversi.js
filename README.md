@@ -1,0 +1,1 @@
+[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=yamitake&url=https://github.com/yamitake/jquery.reversi.js&title=jquery.reversi.js&language=&tags=github&category=software) 

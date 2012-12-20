@@ -4,7 +4,7 @@ jquery.reversi.js
 --------
 
 説明はdemoページを参考にご覧ください。
-[demoぺーじへ](http://yamitake.github.com/jquery.reversi.js)
+[demoページへ](http://yamitake.github.com/jquery.reversi.js)
 
 
 

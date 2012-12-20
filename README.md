@@ -1,2 +1,11 @@
-[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=yamitake&url=https://github.com/yamitake/jquery.reversi.js&title=jquery.reversi.js&language=&tags=github&category=software) 
-[Grow! me!](http://growbutton.com/yamitake/contents/4f2d706753acc108ae003282)
+jquery.reversi.js
+========
+リバーシのjquery.pluginです。
+--------
+
+説明はdemoページを参考にご覧ください。
+[demoぺーじへ](http://yamitake.github.com/jquery.reversi.js)
+
+
+
+yamitakeの成果物一覧は[こちら](http://yamitake.github.com/)
